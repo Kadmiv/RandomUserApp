@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+    <string name="cell_phone">Cell phone</string>
+    <string name="mail">Email</string>
+    <string name="open_app_settings">Settings</string>
+    <string name="avatar_transition">item</string>
+    <string name="connection_error">Some problem with network connection!</string>
+    <string name="try_again">Try again</string>
+</resources>
